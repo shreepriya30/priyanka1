@@ -1,0 +1,2 @@
+"ConnectionStrings":  {
+   "DbConnection": "Data Source=DESKTOP-6OJ2H93\\SQLEXPRESS;Initial Catalog=Test;Integrated Security=True;MultipleActiveResultSets=True";
